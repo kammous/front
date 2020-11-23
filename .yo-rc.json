@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.mycompany.myapp"
+      "packageName": "com.mycompany.myapp",
+      "microservicePath": "../ws"
     },
     "jhipsterVersion": "6.10.5",
     "applicationType": "gateway",
